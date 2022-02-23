@@ -1,1 +1,1 @@
-# Miniprojekt-3--online-shop
+# Miniprojekt3-online-shop
