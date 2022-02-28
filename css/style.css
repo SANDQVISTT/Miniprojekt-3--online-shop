@@ -13,3 +13,6 @@ h1{
     height: 200px;
     border: solid black;
 }
+.products button{
+    margin: 10px;
+}
